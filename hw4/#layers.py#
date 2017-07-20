@@ -1,6 +1,6 @@
 import numpy as np
+#dasd
 
-#sdasdsdhttps://github.com/Hossein-Chaghazardi/Recurrent-NNhttps://github.com/Hossein-Chaghazardi/Recurrent-NNhttps://github.com/Hossein-Chaghazardi/Recurrent-NN
 def affine_forward(x, w, b):
   """
   Computes the forward pass for an affine (fully-connected) layer.
